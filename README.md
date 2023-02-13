@@ -9,3 +9,4 @@ Based on Roza's research so far and her believes she wants to get more informati
 After editing index.HTML and chart.js to build the required charts and display and interactive Dashboard the Webpage looks like this
 
 ![image](https://user-images.githubusercontent.com/112978144/218557966-c7a6dc1b-f3ef-428e-8f89-5c5cf6b27141.png)
+From these Findings Roza is able to visualize top 10 bacterial cultures found in the belly-button, belly-button washing frequency and bacteria culture per sample.
